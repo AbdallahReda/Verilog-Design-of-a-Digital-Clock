@@ -24,13 +24,13 @@ Package: FG320
 Speed: -4
 ```
 
-with an executable BIT file generated **specifically** for the hardware listed above. Download BIT file [here](https://s3.amazonaws.com/hxing-undergrad/VE270/VE270_Lab_VI.bit).
+with an executable BIT file generated **specifically** for the hardware listed above. Download BIT file [here](https://undergrad.hxing.me/VE270/VE270_Lab_VI.bit?x-source=site).
 
 ## Manual, Report and Demo Video
 The code was designed for a school project.
-- [Project Manual](https://s3.amazonaws.com/hxing-undergrad/VE270/Lab+VI+Manual.pdf)
-- [Project Report](https://s3.amazonaws.com/hxing-undergrad/VE270/Lab+VI+Report.pdf)
-- FPGA Board PIN Assignment based on [Digilent Nexys2 Board Manual](https://s3.amazonaws.com/hxing-undergrad/VE270/Digilent+Nexys2+Manual.pdf)
+- [Project Manual](https://undergrad.hxing.me/VE270/Lab+VI+Manual.pdf?x-source=site)
+- [Project Report](https://undergrad.hxing.me/VE270/Lab+VI+Report.pdf?x-source=site)
+- FPGA Board PIN Assignment based on [Digilent Nexys2 Board Manual](https://undergrad.hxing.me/VE270/Digilent+Nexys2+Manual.pdf?x-source=site)
 - and [a demonstrative video is available on YouTube](https://youtu.be/M_Ml6MK7oH0?t=2m5s)
 
 ## Credits
